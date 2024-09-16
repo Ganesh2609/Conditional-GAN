@@ -25,8 +25,8 @@ The CGAN architecture consists of two main components:
   - **Output**: Probability indicating whether the image is real or fake.
 
 ## Sample Results
+NOTE : The left 4 x 4 squares represent the original images and the right 4 x 4 half represent the fake images generated based on the codition that they have the same class as the original in the left.\n
 Some generated samples from each epoch are displayed below:
-NOTE : The left 4 x 4 squares represent the original images and the right 4 x 4 half represent the fake images generated based on the codition that they have the same class as the original in the left.
 
 - **Epoch 1**:  
   ![Epoch 1](Results/Epoch_1.png)
